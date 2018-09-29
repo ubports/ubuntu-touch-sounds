@@ -8,7 +8,7 @@ Add sounds by placing them in the appropriate directory, [share/sounds/ubports/n
 
 Files must be in Vorbis encoding with the extension `.ogg`. Also add the license of the file to [debian/copyright](debian/copyright) (please keep the file in alphabetical order by file name/path). Files must be licensed under the Creative Commons-Attribution-ShareAlike 3.0 (CC-BY-SA 3.0) license. A newer version of the CC-BY-SA license may be used. A more permissive license than CC-BY-SA 3.0 may be used. A less permissive license may not be used.
 
-If you need all the details, the files in this repository are all 44100 Hz sample rate Vorbis files. They have a variable but nominal 499.821000kb/s bitrate, except for [Alarm clock.ogg](share/sounds/ubports/ringtones/Alarm clock.ogg) and [Alarm synth.ogg](share/sounds/ubports/ringtones/Alarm synth.ogg), which are variable but nominal 256kb/s.
+If you need all the details, the files in this repository are all 44100 Hz sample rate Vorbis files. They have a variable but nominal 499.821000kb/s bitrate, except for `Alarm clock.ogg` and `Alarm synth.ogg`, which are variable but nominal 256kb/s.
 
 ## Removing sounds
 
