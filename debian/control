@@ -1,0 +1,13 @@
+Source: ubuntu-touch-sounds
+Section: sound
+Priority: optional
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.4
+
+Package: ubuntu-touch-sounds
+Architecture: all
+Depends: ${misc:Depends}
+Description: sounds for the Ubuntu Touch image
+ That package provides notification and ringtones sound effects for Ubuntu
+ Touch.

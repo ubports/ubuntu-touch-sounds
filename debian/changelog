@@ -1,0 +1,31 @@
+ubuntu-touch-sounds (18.09) xenial; urgency=medium
+
+  * Include new sounds from the Ubuntu Touch cultural showcase 2018
+  * Add a readme
+  * Separate license file for each file
+  * Install to /usr/share/sounds/ubports and symlink appropriate directories
+    back to /usr/share/sounds/ubuntu. See
+    https://github.com/ubports/ubuntu-touch/issues/892 to track the removal
+    of the symlinks.
+
+ -- Dalton Durst <dalton@ubports.com>  Fri, 28 Sep 2018 15:56:24 -0500
+
+ubuntu-touch-sounds (15.08) wily; urgency=medium
+
+  * Include new alarm sounds, thanks Jouni Helminen (lp: #1354370)
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Tue, 11 Aug 2015 18:43:04 +0200
+
+ubuntu-touch-sounds (13.10.1) saucy; urgency=low
+
+  * Add new ringtone from Sam Hulick
+  * Tweak description in debian/control
+
+ -- Iain Lane <iain.lane@canonical.com>  Tue, 15 Oct 2013 17:38:54 +0100
+
+ubuntu-touch-sounds (13.10) saucy; urgency=low
+
+  * New set of sounds for the phone image (lp: #1239612)
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Mon, 14 Oct 2013 13:31:21 +0200
+
