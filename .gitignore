@@ -1,0 +1,8 @@
+*.deb
+
+debian/ubports-wallpapers*/
+debian/*substvars*
+debian/*.log
+debian/files
+debian/debhelper-build-stamp
+debian/ubuntu-touch-sounds/
